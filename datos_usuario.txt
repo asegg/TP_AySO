@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: Intel(R) Celeron(R) G4930 CPU @ 3.20GHz
